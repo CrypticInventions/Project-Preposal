@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Brandon Hugger
 
 #### Your section leader's name
 
-TODO
+Andrew Rosen
 
 #### Project title
 
-TODO
+Swords and magic
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+Learned how to implement combat system using blueprints
 
 #### What have you not done for your project yet?
 
-TODO
+implemented combat system with animations
 
 #### What problems, if any, have you encountered?
 
-TODO
+Execution of proper physics based animation
